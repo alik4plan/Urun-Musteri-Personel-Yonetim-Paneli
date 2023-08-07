@@ -1,0 +1,14 @@
+C:\Users\alika\OneDrive\Masaüstü\Yazılım\C#\Projeler Klasörü\Hareketler\Hareketler\bin\Debug\Hareketler.exe.config
+C:\Users\alika\OneDrive\Masaüstü\Yazılım\C#\Projeler Klasörü\Hareketler\Hareketler\bin\Debug\Hareketler.exe
+C:\Users\alika\OneDrive\Masaüstü\Yazılım\C#\Projeler Klasörü\Hareketler\Hareketler\bin\Debug\Hareketler.pdb
+C:\Users\alika\OneDrive\Masaüstü\Yazılım\C#\Projeler Klasörü\Hareketler\Hareketler\obj\Debug\Hareketler.csproj.AssemblyReference.cache
+C:\Users\alika\OneDrive\Masaüstü\Yazılım\C#\Projeler Klasörü\Hareketler\Hareketler\obj\Debug\Hareketler.csproj.SuggestedBindingRedirects.cache
+C:\Users\alika\OneDrive\Masaüstü\Yazılım\C#\Projeler Klasörü\Hareketler\Hareketler\obj\Debug\Hareketler.Properties.Resources.resources
+C:\Users\alika\OneDrive\Masaüstü\Yazılım\C#\Projeler Klasörü\Hareketler\Hareketler\obj\Debug\Hareketler.csproj.GenerateResource.cache
+C:\Users\alika\OneDrive\Masaüstü\Yazılım\C#\Projeler Klasörü\Hareketler\Hareketler\obj\Debug\Hareketler.csproj.CoreCompileInputs.cache
+C:\Users\alika\OneDrive\Masaüstü\Yazılım\C#\Projeler Klasörü\Hareketler\Hareketler\obj\Debug\Hareketler.exe
+C:\Users\alika\OneDrive\Masaüstü\Yazılım\C#\Projeler Klasörü\Hareketler\Hareketler\obj\Debug\Hareketler.pdb
+C:\Users\alika\OneDrive\Masaüstü\Yazılım\C#\Projeler Klasörü\Hareketler\Hareketler\obj\Debug\Hareketler.UrunEkleme.resources
+C:\Users\alika\OneDrive\Masaüstü\Yazılım\C#\Projeler Klasörü\Hareketler\Hareketler\obj\Debug\Hareketler.MusteriEkleme.resources
+C:\Users\alika\OneDrive\Masaüstü\Yazılım\C#\Projeler Klasörü\Hareketler\Hareketler\obj\Debug\Hareketler.PersonelEkleme.resources
+C:\Users\alika\OneDrive\Masaüstü\Yazılım\C#\Projeler Klasörü\Hareketler\Hareketler\obj\Debug\Hareketler.Ürün.resources
